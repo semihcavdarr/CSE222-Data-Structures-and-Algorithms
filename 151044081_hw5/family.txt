@@ -1,0 +1,4 @@
+hasan
+ayşe,hasan,ebu-ayşe
+ali,ayşe,ibn-hasan
+sema,hasan,ebu-ayşe
